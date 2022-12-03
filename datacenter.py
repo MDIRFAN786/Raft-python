@@ -7,7 +7,7 @@ import thread
 from multiprocessing import Process
 import random
 import pickle
-
+#for async tast we uses threading library
 from KThread import *
 from messages import *
 from follower_functions import *
